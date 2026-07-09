@@ -17,7 +17,7 @@ Entity Core is an open initiative for entity-centered information operating syst
 
 - 🌐 [entitycore.org](https://entitycore.org) — the initiative
 - 📖 [EIOS 1.0 Master Documentation](https://github.com/entity-core/eios/blob/main/spec/eios-1.0-master-documentation.md) — the complete specification
-- ✉️ hello@entitycore.org — pilots, contributors, and reviewers welcome
+- ✉️ valto@valtoai.com — pilots, contributors, and reviewers welcome
 
 ## Origin
 
@@ -25,4 +25,4 @@ EIOS originated as a sibling framework to [PIOS](https://github.com/peecos) (Per
 
 ## License
 
-Specifications and documentation: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Reference code and tooling: Apache-2.0
+© 2026 Valto Loikkanen · Specifications and documentation: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Reference code and tooling: Apache-2.0
