@@ -9,7 +9,7 @@ Entity Core is an open initiative for AI-native entity information. EIOS gives a
 | Name | Role |
 | --- | --- |
 | **[EIOS](https://github.com/entity-core/eios)** | Entity Information Operating System — the open framework and specification |
-| **Keel** | The reference implementation: a durable information spine for the entity |
+| **[Keel](https://github.com/entity-core/keel)** | The reference implementation: a durable information spine for the entity (reference architecture published) |
 | **Weave** | The Entity Context Blueprint: the organizing logic that makes entity information legible |
 | **Entity Keel** | One organization's own running instance — its private source of truth |
 
