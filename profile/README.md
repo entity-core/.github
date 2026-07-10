@@ -1,8 +1,8 @@
 # Entity Core
 
-**The information foundation for self-improving organizations.**
+**Your AI is only as good as the context it can see.**
 
-Entity Core is an open initiative for entity-centered information operating systems. It defines how an organization can preserve, govern, operationalize, and improve its knowledge, decisions, agreements, financials, customer signals, and operating memory — usable by both its people and its AI agents.
+Entity Core is an open initiative for AI-native entity information. EIOS gives an organization one durable, governed information core — full context that AI agents and people can actually work with: knowledge, decisions, agreements, financials, customer signals, and operating memory. Solving context also cures corporate amnesia, key-person dependency, and tool lock-in. The information foundation for self-improving organizations.
 
 ## The stack
 
